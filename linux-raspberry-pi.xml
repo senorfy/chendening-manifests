@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <manifest>
-    <remote name="chendening" fetch="https://github.com/senorfy/"/>
+    <remote name="chendening" review="https://github.com/senorfy/" fetch="https://github.com/senorfy/"/>
+	<default remote="chendening" revision="master" sync-j="2"/>
     <project remote="chendening" name="sanlun" path="sanlun11" revision="master"/>
 </manifest>
