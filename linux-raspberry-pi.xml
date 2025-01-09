@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<manifest>
+    <remote name="chendening" fetch="https://github.com/senorfy/"/>
+    <project remote="chendening" name="sanlun" path="sanlun11" revision="master"/>
+</manifest>
